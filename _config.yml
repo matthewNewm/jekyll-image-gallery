@@ -9,12 +9,12 @@
 title: Photos by Matthew
 email: matthew@newmanfamily.net
 description: > # this means to ignore newlines until "baseurl:"
-  # This website is an example on how to use my gallery blog post to add a
+  This website is an example on how to use my gallery blog post to add a
   photo gallery to your blog/website.
 baseurl: "/jekyll-image-gallery-example" # the subpath of your site, e.g. /blog
 url: "https://matthewNewm.github.io" # the base hostname & protocol for your site
-twitter_username: 
-github_username:  
+twitter_username: test
+github_username:  test
 
 # Build settings
 markdown: kramdown
